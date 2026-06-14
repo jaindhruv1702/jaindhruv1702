@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Dhruv Jain 👋
 
-<!--
-**jaindhruv1702/jaindhruv1702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Engineering (2026)
+📍 Mumbai, India
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an AI/ML enthusiast with experience in Machine Learning, Natural Language Processing, Healthcare AI, and AI Automation.
+
+My work focuses on:
+- Machine Learning
+- NLP
+- AI Agents
+- Workflow Automation
+- Generative AI
+
+Currently exploring:
+- LangChain
+- LangGraph
+- Agentic AI Systems
+
+## Featured Projects
+
+### AI Lead Intelligence System
+AI-powered lead qualification, company research, and lead scoring workflow using n8n and Gemini.
+
+### AI Customer Support Agent
+Automated email classification, knowledge retrieval, and AI response generation workflow.
+
+### Sarcasm-Aware Sentiment Detection
+Hybrid NLP system combining sentiment analysis and sarcasm detection.
+
+### Parkinson's Disease Prediction
+Healthcare-focused machine learning system for early disease prediction using voice biomarkers.
+
+## Tech Stack
+
+Python • SQL • Scikit-Learn • Pandas • NumPy • NLP • n8n • Gemini • Flask • FastAPI • Streamlit • Git • Docker
+
+## Connect
+
+LinkedIn: (add your link)
+GitHub: github.com/jaindhruv1702
