@@ -13,9 +13,9 @@ My work focuses on:
 - AI Agents
 - Workflow Automation
 - Generative AI
+- LangChain
 
 Currently exploring:
-- LangChain
 - LangGraph
 - Agentic AI Systems
 
